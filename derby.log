@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 09 15:17:00 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-5e55-e628-00000f8c5cc0 
+on database directory memory:/home/ppatil/maven_projects/courserapidata/testdb with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/home/ppatil/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=/home/ppatil/maven_projects/courserapidata
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-91-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
